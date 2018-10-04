@@ -218,6 +218,13 @@ h1{
   padding: 1.182em; /* 26px / ~ 120% */ 
 }
 
+p{
+  line-height: 1.182em; /* 26px / ~ 120% */
+  text-align: center;
+  padding: 1.182em; /* 26px / ~ 120% */ 
+}
+
+
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
