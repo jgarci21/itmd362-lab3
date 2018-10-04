@@ -260,8 +260,21 @@ input{
 
 /* ===== STATE STYLES ======= */
 
+.hasjs #input-email{
+  position: relative;
+}
 
+.hasjs #input-email label{
+  transition: top 1s;
+  top: 26px;
+  left: 20px;
+}
 
+.hasjs #input-email label.active{
+  top: -10px;
+}
 
-
-
+.hasjs #age-verification{
+  left: 6000px;
+  position: static;
+}
