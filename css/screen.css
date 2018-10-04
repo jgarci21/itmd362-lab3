@@ -237,5 +237,31 @@ input{
 
 /* ===== MODULAR STYLES ===== */
 
+#input-age-verification{
+  font-size: 1.375em; /* 22px */
+  line-height: 1.182em; /* 26px / ~ 120% */
+  text-align: center;
+}
+
+#input-email{
+  font-family: 'volkhov',sans-serif;
+  font-size: 1.375em; /* 22px */
+  line-height: 1.182em; /* 26px / ~ 120% */
+  text-align: center;
+}
+
+#input-submit{
+  font-family: 'francois one',sans-serif;
+  font-size: 1.375em; /* 22px */
+  line-height: 1.182em; /* 26px / ~ 120% */
+  text-align: center;
+}
+
+
 /* ===== STATE STYLES ======= */
+
+
+
+
+
 
