@@ -224,6 +224,16 @@ p{
   padding: 1.182em; /* 26px / ~ 120% */ 
 }
 
+input{
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  height: 25px;
+  box-sizing: border-box;
+  padding: 1.182em; /* 26px / ~ 120% */ 
+  background-color: rgb(87,92,105);
+  color: white; 
+}
 
 /* ===== MODULAR STYLES ===== */
 
