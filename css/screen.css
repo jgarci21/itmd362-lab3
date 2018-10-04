@@ -210,7 +210,13 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
-
+h1{
+  font-family: 'kanit', sans-serif;
+  font-size: 2.00em; /* 22px */
+  line-height: 1.182em; /* 26px / ~ 120% */
+  text-align: center;
+  padding: 1.182em; /* 26px / ~ 120% */ 
+}
 
 /* ===== MODULAR STYLES ===== */
 
