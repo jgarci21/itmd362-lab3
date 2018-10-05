@@ -194,8 +194,8 @@ img, audio, video {
 html {
   font-family: 'libre baskerville', sans-serif;
   font-size: 1.375em; /* 22px */
-  line-height: 1.182em; /* 26px / ~ 120% */
-  padding: 1.182em; /* 26px / ~ 120% */
+  line-height: 1.82em; /* 26px / ~ 120% */
+  padding: 1.00em; 
   text-rendering: optimizeLegibility;
   text-align: center;
   background-color: rgb(174,179,194)
